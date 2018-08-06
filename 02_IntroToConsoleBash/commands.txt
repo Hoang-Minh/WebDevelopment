@@ -1,0 +1,4 @@
+1. Create multiple folders in one command
+mkdir name1 name2
+2. Create multiple files in one command
+mkdir file.extension anotherfile.extension 
